@@ -8,4 +8,4 @@ Se revisan todas las entradas una a una, actualmente 20% revisadas.
 [Ultima versión ](https://github.com/Thord82/Star_citizen_ES/releases)
 
 # Reporte de errores
-[Ultima versión ](https://github.com/Thord82/Star_citizen_ES/issues)
+[Reporte ](https://github.com/Thord82/Star_citizen_ES/issues)
