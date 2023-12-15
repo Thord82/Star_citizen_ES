@@ -1,6 +1,6 @@
 # Star_citizen_ES
 Traducción al español de Star Citizen
-# compatible con el parche 3.22 en EPTU
+# compatible con el parche 3.22 en LIVE
 Proyecto de traducción al español de Star Citizen. 
 Se revisan todas las entradas una a una, actualmente 65% revisadas.
 
