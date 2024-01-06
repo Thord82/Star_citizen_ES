@@ -7,7 +7,7 @@ Se revisan todas las entradas una a una, actualmente 65% revisadas.
 ÚNETE AL DISCORD DE LA COMUNIDAD 
 https://discord.gg/qDWAXz8DRJ
 
-SÍGENOS EN DIRECTO 
+SÍGUENOS EN DIRECTO 
 https://www.twitch.tv/arkvenger_tv
 
 # Descarga
