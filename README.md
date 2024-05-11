@@ -1,8 +1,8 @@
 # Star_citizen_ES
 Traducción al español de Star Citizen
-# compatible con el parche 3.22 en LIVE
+# compatible con el parche 3.23 en LIVE
 Proyecto de traducción al español de Star Citizen. 
-Se revisan todas las entradas una a una, actualmente 65% revisadas.
+Se revisan todas las entradas una a una, actualmente 75% revisadas.
 
 ÚNETE AL DISCORD DE LA COMUNIDAD 
 https://discord.gg/qDWAXz8DRJ
