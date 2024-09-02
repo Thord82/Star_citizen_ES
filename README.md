@@ -11,6 +11,7 @@ https://www.twitch.tv/arkvenger_tv
 
 # :point_down:Descarga:point_down:
 :point_right:  [Ultima versión ](https://github.com/Thord82/Star_citizen_ES/releases) :point_left:
+
 Descomprime el contenido del Zip en la raiz de instalación de SC ejemplo: `C:\Program Files\Roberts Space Industries\StarCitizen\`
 
 # Reporte de errores
