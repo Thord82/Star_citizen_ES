@@ -1,7 +1,7 @@
 # Star_citizen_ES
 Traducción al español de Star Citizen
 Star Citizen, traducción, español, Spanish, Latinoamérica, España, StarCitizenTranslation
-# compatible con el parche 3.24.2 LIVE y 3.24.3 PTU
+# compatible con el parche 3.24.3 LIVE y 3.24.3 PTU
 Proyecto de traducción al español de Star Citizen. 
 
 ÚNETE AL DISCORD DE LA COMUNIDAD 
