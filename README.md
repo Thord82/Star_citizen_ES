@@ -17,5 +17,7 @@ Descomprime el contenido del Zip en la raiz de instalación de SC ejemplo: `C:\P
 # Instalación
 [Video explicativo Instalación de la traducción By @arkvenger_tv](https://youtu.be/0ksdOfoCohY?t=547&si=tGoxRosi-Tu5oIVZ)
 
+[Video explicativo Instalación de la traducción en 2 min  By @NorrisPlay](https://www.youtube.com/watch?v=41sTMxOnCsE)
+
 # Reporte de errores
 [Reporte ](https://github.com/Thord82/Star_citizen_ES/issues)
