@@ -21,3 +21,9 @@ Descomprime el contenido del Zip en la raiz de instalación de SC ejemplo: `C:\P
 
 # Reporte de errores
 [Reporte ](https://github.com/Thord82/Star_citizen_ES/issues)
+
+## ☕ Apóyame
+
+Si este proyecto te ha sido útil, ¡puedes apoyarme aquí!
+
+[![Invítame una cerveza](https://img.shields.io/badge/Invítame%20una%20cerveza-%23255fc4?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/N4N81FLJCV)
