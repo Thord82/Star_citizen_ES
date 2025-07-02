@@ -1,7 +1,7 @@
 # Star_citizen_ES
 Traducción al español de Star Citizen
 Star Citizen, traducción, español, Spanish, Latinoamérica, España, StarCitizenTranslation
-# compatible con el parche 4.1.1 del LIVE y 4.2 PTU
+# compatible con el parche 4.2 del LIVE y 4.2.1 PTU
 Proyecto de traducción al español de Star Citizen. 
 
 ÚNETE AL DISCORD DE LA COMUNIDAD 
@@ -22,8 +22,3 @@ Descomprime el contenido del Zip en la raiz de instalación de SC ejemplo: `C:\P
 # Reporte de errores
 [Reporte ](https://github.com/Thord82/Star_citizen_ES/issues)
 
-## ☕ Apóyame
-
-Si este proyecto te ha sido útil, ¡puedes apoyarme aquí!
-
-[![Invítame una cerveza](https://img.shields.io/badge/Invítame%20una%20cerveza-%23255fc4?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/N4N81FLJCV)
