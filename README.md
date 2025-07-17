@@ -1,8 +1,11 @@
 # Star_citizen_ES
 Traducción al español de Star Citizen
 Star Citizen, traducción, español, Spanish, Latinoamérica, España, StarCitizenTranslation
-# compatible con el parche 4.2 del LIVE y 4.2.1 PTU
+# compatible con el parche 4.2.1 del LIVE y 4.2.1 PTU
 Proyecto de traducción al español de Star Citizen. 
+
+SI VAS A CREAR UNA CUENTA NUEVA USA MI CÓDIGO (STAR-V9T9-FFNF) 🤙 
+https://www.robertsspaceindustries.com/enlist?referral=STAR-V9T9-FFNF
 
 ÚNETE AL DISCORD DE LA COMUNIDAD 
 https://discord.gg/qDWAXz8DRJ
