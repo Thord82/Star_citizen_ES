@@ -6,7 +6,7 @@ Proyecto de traducción al español de Star Citizen.
 
 
 
-SI VAS A CREAR UNA CUENTA NUEVA USA MI CÓDIGO (STAR-V9T9-FFNF) 🤙:
+💙 SI VAS A CREAR UNA CUENTA NUEVA SE AGRADECE SI USAS MI CÓDIGO (STAR-V9T9-FFNF) 💙:
  
 https://www.robertsspaceindustries.com/enlist?referral=STAR-V9T9-FFNF
 
