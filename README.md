@@ -8,6 +8,7 @@ SI VAS A CREAR UNA CUENTA NUEVA USA MI CÓDIGO (STAR-V9T9-FFNF) 🤙:
  
 https://www.robertsspaceindustries.com/enlist?referral=STAR-V9T9-FFNF
 
+
 ÚNETE AL DISCORD DE LA COMUNIDAD 
 https://discord.gg/qDWAXz8DRJ
 
