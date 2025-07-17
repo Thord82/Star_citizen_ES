@@ -12,8 +12,11 @@ https://www.robertsspaceindustries.com/enlist?referral=STAR-V9T9-FFNF
 ÚNETE AL DISCORD DE LA COMUNIDAD 
 https://discord.gg/qDWAXz8DRJ
 
+
 SÍGUENOS EN DIRECTO 
+
 https://www.twitch.tv/arkvenger_tv
+
 
 # :point_down:Descarga:point_down:
 :point_right:  [Ultima versión ](https://github.com/Thord82/Star_citizen_ES/releases) :point_left:
